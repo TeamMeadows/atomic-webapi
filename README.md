@@ -3,7 +3,7 @@
 API between your frontend project and Garry's Mod.
 
 ## Abilities
-* Calling functions, that Garry's Mod Lua side will be support
+* Calling functions, that Garry's Mod Lua side supports
 * Listening to events from Garry's Mod
 
 ## Installation
