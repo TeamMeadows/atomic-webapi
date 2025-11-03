@@ -1,0 +1,15 @@
+{
+  "name": "@teammeadows/atomicapi",
+  "version": "1.0.0",
+  "module": "index.ts",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
